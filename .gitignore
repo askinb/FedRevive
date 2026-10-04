@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+ExperimentOuts/
+codes/ExperimentOuts/
+data/*
+!data/.gitkeep
